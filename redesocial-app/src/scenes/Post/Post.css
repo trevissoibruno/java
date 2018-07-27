@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.post{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 25px;
+}
+
+.imagem{
+    background: url(./like.png);
+}

@@ -1,0 +1,7 @@
+.fundo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: no-repeat center center fixed; 
+    height: 100%;      
+}

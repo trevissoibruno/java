@@ -1,0 +1,19 @@
+.Home{
+    text-align: center;
+}
+
+.fundo{
+    margin-top: 55px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0;
+    display: flex;
+    background: url(./cerveja.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  
+}
